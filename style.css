@@ -1,0 +1,37 @@
+@charset "utf-8";
+.grid {
+	width: 320px;
+	height: 324px;
+	margin-left: auto;
+	margin-right: auto;
+	opacity: 1;
+}
+ul {
+	margin: 0 auto;
+	padding: 0;
+	position: relative;
+}
+ul li {
+	list-style: none;
+	display: inline-block;
+	cursor: pointer;
+	position: relative;
+}
+ul li img {
+	width: 100px;
+	border: 1 px solid #FCF4DC;
+	opacity: 1;
+	position: relative;
+}
+h1 {
+	vertical-align: middle;
+	text-align: center;
+}
+form {
+	vertical-align: middle;
+	text-align: center;
+}
+p {
+	position: relative;
+	text-align: center;
+}
